@@ -1,18 +1,8 @@
 # thp_S7J4
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
 
-    <h1>Teste dans la console !</h1>
-    <p>Pour tester les différents scripts, il te suffit de changer le numéro du fichier .js à la fin de ce HTML</p>
-    <p>Ex : "script3.js" pour appeler le 3ème script</p>
+*Teste dans la console !*
 
-  </body>
-  <script src="script55.js"></script>
-</html>
 
+**Pour tester les différents scripts, il te suffit de changer le numéro du fichier .js à la fin de ce HTML**
+Ex : "script3.js" pour appeler le 3ème script
